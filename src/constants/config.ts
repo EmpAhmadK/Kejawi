@@ -4,7 +4,7 @@ export const CONFIG = {
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'احمد علي کريم', // Put your name here so people know who made this Wordle!
   authorWebsite: 'https://ahmadalikarim.com', // Put a link to your website or social media here
-  wordListSource: 'ديوان بهاس دان ڤوستاک', // Describe the source material for your words here
+  wordListSource: 'قاموس ديوان بهاس دان ڤوستاک', // Describe the source material for your words here
   wordListSourceLink: 'ttps://prpm.dbp.gov.my', // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
