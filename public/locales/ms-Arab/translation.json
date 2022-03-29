@@ -1,0 +1,102 @@
+{
+    "about": "تنتڠ ڤرماءينن اين",
+    "gameName": "بوکن وردل - {{language}}",
+    "enterKey": "Enter",
+    "deleteKey": "Delete",
+    "notEnoughLetters": "تق چوکوڤ حروف",
+    "wordNotFound": "ڤرکاتاءن تيدق دتموءي",
+    "solution": "ڤرکاتاءنڽ {{solution}}",
+    "gameCopied": "ڤرماءينن دسالين کڤاڤن کرتن",
+    "howToPlay": "چارا برماءين",
+    "instructions": "تکا ڤرکاتاءن دالم {{tries}} چوباءن. ستله ستياڤ تکاءن⹁ ورنا جوبين اکن براوبه برداسرکن کتڤتن تکاءن اندا کڤد جواڤنڽ.",
+    "pickYourLanguage": "ڤيليه بهاس",
+    "correctSpotInstructions": "حروف ي اد ددالم برکاتاءن دان دتمڤت يڠ بتول.",
+    "wrongSpotInstructions": "حروف ء اد ددالم ڤرکاتاءن دتمڤت يڠ ساله.",
+    "notInWordInstructions": "حروف ي تياد دمان٢ بهاݢين ڤرکاتاءن.",
+    "guessDistribution": "تابورن تکاءن",
+    "statistics": "ستاتيستيک",
+    "totalTries": "جومله چوباءن",
+    "successRate": "قدر منڠ",
+    "currentStreak": "کومبو سماس",
+    "bestStreak": "کومبو ترباءيق",
+    "newWordCountdown": "ڤرکاتاءن بهارو دالم",
+    "share": "کوڠسي",
+    "winMessages": [
+        "تهنئه!",
+        "هيبت",
+        "ترباءيق!"
+    ],
+    "firstExampleWord": [{
+            "letter": "ي",
+            "highlight": true
+        },
+        {
+            "letter": "ا",
+            "highlight": false
+        },
+        {
+            "letter": "ج",
+            "highlight": false
+        },
+        {
+            "letter": "ر",
+            "highlight": false
+        },
+        {
+            "letter": "ب",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "ن",
+            "highlight": false
+        },
+        {
+            "letter": "ي",
+            "highlight": false
+        },
+        {
+            "letter": "ء",
+            "highlight": true
+        },
+        {
+            "letter": "ا",
+            "highlight": false
+        },
+        {
+            "letter": "ل",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "س",
+            "highlight": false
+        },
+        {
+            "letter": "ا",
+            "highlight": false
+        },
+        {
+            "letter": "و",
+            "highlight": false
+        },
+        {
+            "letter": "ي",
+            "highlight": true
+        },
+        {
+            "letter": "ت",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "اين مروڤاکن ڤندواءن برسومبر تربوک باݢي ڤرماءينن وردل دسوايکن کڤد {{language}} اوليه <3>{{author}}</3>. ",
+    "aboutCodeSentence": "تينجاو <1>کود اصل</1> اوليه <3>هينه ڤرک</3> اتاو ليهت چابڠن <5>ايدن ڤاءين</5> دان سسوايکنڽ اونتوق بهاس لاءين! ",
+    "aboutDataSentence": "ڤرکاتاءن دالم ڤرماءينن اين دأمبيل درڤد <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "اندا جوݢ بوليه برماءين ۏرسي اصلي  <1>دسيني</1>",
+    "languages": {
+        "en": "English",
+        "es": "Español"
+        "ms": "Bahasa Melayu"
+        "ms-Arab": "بهاس ملايو"
+    }
+}
