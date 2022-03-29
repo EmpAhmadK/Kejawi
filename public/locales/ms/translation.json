@@ -1,10 +1,10 @@
 {
     "about": "Tentang permainan ini",
-    "gameName": "Bukan Wordle - {{language}}",
+    "gameName": "Kejawi",
     "enterKey": "Enter",
     "deleteKey": "Delete",
     "notEnoughLetters": "Tak cukup huruf",
-    "wordNotFound": "Perkataain tidak ditemui",
+    "wordNotFound": "Perkataan tidak ditemui",
     "solution": "Perkataannya {{solution}}",
     "gameCopied": "Permainan disalin ke papan keratan",
     "howToPlay": "Cara bermain",
@@ -97,6 +97,6 @@
         "en": "English",
         "es": "Español"
         "ms": "Bahasa Melayu"
-        "ms-Arab": "بهاس ملايو"
+        "msArab": "بهاس ملايو"
     }
 }

@@ -1,6 +1,6 @@
 {
     "about": "تنتڠ ڤرماءينن اين",
-    "gameName": "بوکن وردل - {{language}}",
+    "gameName": "کجاوي",
     "enterKey": "Enter",
     "deleteKey": "Delete",
     "notEnoughLetters": "تق چوکوڤ حروف",
@@ -97,6 +97,6 @@
         "en": "English",
         "es": "Español"
         "ms": "Bahasa Melayu"
-        "ms-Arab": "بهاس ملايو"
+        "msArab": "بهاس ملايو"
     }
 }
