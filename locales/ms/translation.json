@@ -2,7 +2,7 @@
     "about": "Tentang permainan ini",
     "gameName": "Kejawi",
     "enterKey": "Enter",
-    "deleteKey": "Delete",
+    "deleteKey": "⌫",
     "notEnoughLetters": "Tak cukup huruf",
     "wordNotFound": "Perkataan tidak ditemui",
     "solution": "Perkataannya {{solution}}",
