@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 div {
-  font-family: 'BCSans', 'Noto Sans', sans-serif;
+  font-family: 'BCSans', 'Noto Sans', 'Segoe UI', sans-serif;
 }
 
 .cell-animation {

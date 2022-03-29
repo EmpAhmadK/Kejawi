@@ -1,8 +1,8 @@
 {
     "about": "About this game",
-    "gameName": "Not Wordle - {{language}}",
+    "gameName": "Kejawi (Jawi Wordle)",
     "enterKey": "Enter",
-    "deleteKey": "Delete",
+    "deleteKey": "⌫",
     "notEnoughLetters": "Not enough letters",
     "wordNotFound": "Word not found",
     "solution": "The word was {{solution}}",

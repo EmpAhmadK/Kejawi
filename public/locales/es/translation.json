@@ -2,7 +2,7 @@
     "about": "Acerca de este juego",
     "gameName": "No Wordle - {{language}}",
     "enterKey": "Enviar",
-    "deleteKey": "Eliminar",
+    "deleteKey": "⌫",
     "notEnoughLetters": "No hay suficientes letras",
     "wordNotFound": "Palabra no encontrada",
     "solution": "La palabra era {{solution}}",
