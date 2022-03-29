@@ -1,0 +1,102 @@
+{
+    "about": "Tentang permainan ini",
+    "gameName": "Bukan Wordle - {{language}}",
+    "enterKey": "Enter",
+    "deleteKey": "Delete",
+    "notEnoughLetters": "Tak cukup huruf",
+    "wordNotFound": "Perkataain tidak ditemui",
+    "solution": "Perkataannya {{solution}}",
+    "gameCopied": "Permainan disalin ke papan keratan",
+    "howToPlay": "Cara bermain",
+    "instructions": "Teka perkataan dalam {{tries}} cubaan. Setelah setiap tekaan, warna jubin akan berubah berdasarkan ketepatan tekaan anda kepada jawapannya.",
+    "pickYourLanguage": "Pilih bahasa",
+    "correctSpotInstructions": "Huruf B ada di dalam perkataan dan di tempat yang betul.",
+    "wrongSpotInstructions": "Huruf L ada di dalam perkataan tetapi di tempat yang salah.",
+    "notInWordInstructions": "Huruf H tiada di mana-mana bahagian perkataan.",
+    "guessDistribution": "Taburan tekaan",
+    "statistics": "Statistik",
+    "totalTries": "Jumlah cubaan",
+    "successRate": "Kadar menang",
+    "currentStreak": "Kombo semasa",
+    "bestStreak": "Kombo terbaik",
+    "newWordCountdown": "Perkataan baharu dalam",
+    "share": "Kongsi",
+    "winMessages": [
+        "Tahniah!",
+        "Hebat",
+        "Terbaik!"
+    ],
+    "firstExampleWord": [{
+            "letter": "B",
+            "highlight": true
+        },
+        {
+            "letter": "E",
+            "highlight": false
+        },
+        {
+            "letter": "T",
+            "highlight": false
+        },
+        {
+            "letter": "U",
+            "highlight": false
+        },
+        {
+            "letter": "L",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "S",
+            "highlight": false
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        },
+        {
+            "letter": "L",
+            "highlight": true
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        },
+        {
+            "letter": "H",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "K",
+            "highlight": false
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        },
+        {
+            "letter": "L",
+            "highlight": false
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        },
+        {
+            "letter": "H",
+            "highlight": true
+        }
+    ],
+    "aboutAuthorSentence": "Ini merupakan penduaan bersumber terbuka bagi permainan Wordle disuaikan kepada {{language}} oleh <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Tinjau <1>kod asal</1> oleh <3>Hannah Park</3> atau lihat cabangan <5>Aidan Pine</5> dan sesuaikannya untuk bahasa lain! ",
+    "aboutDataSentence": "Perkataan dalam permainan ini diambil daripada <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "Anda juga boleh bermain versi asli  <1>di sini</1>",
+    "languages": {
+        "en": "English",
+        "es": "Español"
+        "ms": "Bahasa Melayu"
+        "ms-Arab": "بهاس ملايو"
+    }
+}
